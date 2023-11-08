@@ -1,7 +1,7 @@
 # minecraft-server
 minecraft server documentation and configuration
 
-## Getting Started
+## How To Conect
 1. Curseforge
    - Install [Curseforge](https://www.curseforge.com/download/app#download-options)
 3. Tailscale
@@ -11,18 +11,25 @@ minecraft server documentation and configuration
         - user: 
         - pass: 
 5. Connect
-|server|mod(s)|
+|servername|mod(s)|
 |-----|------|
-|Sevtech|[Sevtech Ages]()|
+|h0|Vanilla |
 
 
-// TODO
-## Server Configuration
+## Host Configuration
+Current OS: Debian Bookworm 
+
 1. fstab
-2. users
-3. Enable ssh
-4. docker installation
-5. get modpack
-6. tailscale
-7. compose
+```
+```
+3. passwd
+5. Enable ssh
+6. docker installation
+7. get modpack
+8. tailscale
+9. compose
+
+//TODO
+Disable root login
+cron configuration
 
