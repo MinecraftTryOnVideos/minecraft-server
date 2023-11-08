@@ -11,6 +11,8 @@ minecraft server documentation and configuration
         - user: 
         - pass: 
 5. Connect
+
+
 |servername|mod(s)|
 |-----|------|
 |h0|Vanilla |
